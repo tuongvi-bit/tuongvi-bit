@@ -1,6 +1,3 @@
-<!-- Banner -->
-![banner](https://i.ibb.co/Z2Vn5tQ/banner-sample.png)
-
 # Hi 👋, I'm **Nguyễn Lê Tường Vi**
 
 🎓 Sinh viên năm 2 • 🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
