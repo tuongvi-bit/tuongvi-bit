@@ -1,4 +1,9 @@
-# Hello 👋, I'm **Nguyễn Lê Tường Vi**
+# 🌐 Portfolio - Nguyễn Lê Tường Vi
+
+Xin chào 👋, đây là website **Portfolio cá nhân** của mình, được xây dựng bằng **HTML + CSS** và triển khai bằng **GitHub Pages**.  
+
+## 🔗 Link Website
+👉 [Xem Portfolio tại đây](https://tuongvi-bit.github.io/tuongvi-bit/) 
 
 🎓 Sinh viên năm 2 • 🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
 💻 Yêu thích công nghệ • Thiết kế sáng tạo • Học ngôn ngữ • Làm nội dung TikTok  
