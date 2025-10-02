@@ -5,7 +5,7 @@ Xin chào 👋, đây là website **Portfolio cá nhân** của mình, được 
 
 
 ## 🔗 Link Website
-👉 [Xem Portfolio tại đây]Xem Portfolio tại đây
+👉 Xem Portfolio tại đây
 
 
 🎓 Sinh viên năm 3 • 🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
