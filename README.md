@@ -5,7 +5,7 @@ Xin chào 👋, đây là website **Portfolio cá nhân** của mình, được 
 ## 🔗 Link Website
 👉 [Xem Portfolio tại đây](https://tuongvi-bit.github.io/tuongvi-bit/) 
 
-🎓 Sinh viên năm 2 • 🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
+🎓 Sinh viên năm 3 • 🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
 💻 Yêu thích công nghệ • Thiết kế sáng tạo • Học ngôn ngữ • Làm nội dung TikTok  
 
 ---
