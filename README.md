@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Nguyễn Lê Tường Vi**
+# Hello 👋, I'm **Nguyễn Lê Tường Vi**
 
 🎓 Sinh viên năm 2 • 🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
 💻 Yêu thích công nghệ • Thiết kế sáng tạo • Học ngôn ngữ • Làm nội dung TikTok  
@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 About me
-- 🔭 Hiện đang học tập & phát triển kỹ năng lập trình Web / GitHub / Tử Vi nghiên cứu  
-- 🌱 Quan tâm đến **AI, thiết kế sáng tạo, ngôn ngữ**  
-- 🎯 Mục tiêu: Trở thành chuyên gia công nghệ và sáng tạo nội dung đa lĩnh vực  
+- 🔭 Hiện tại mình đang là sinh viên năm 2, tập trung vào việc học tập và phát triển kỹ năng lập trình Web (HTML, CSS, JavaScript) và GitHub để phục vụ cho việc xây dựng website cá nhân, dự án học tập cũng như phát triển nội dung số. Ngoài ra, mình còn quan tâm đến việc áp dụng công nghệ vào đời sống thực tiễn, kết hợp giữa sáng tạo và kỹ thuật.  
+- 🌱 Mình đặc biệt yêu thích và tìm hiểu về **Trí tuệ nhân tạo (AI)**, **thiết kế sáng tạo**, và **ngôn ngữ học**. Bên cạnh lập trình, mình còn dành nhiều thời gian cho thiết kế đồ họa (Photoshop, Illustrator, After Effects, CapCut) để phục vụ sở thích sáng tạo nội dung.
+- 🎯 Mục tiêu của mình là trở thành một người có thể kết hợp hài hòa giữa **công nghệ** và **sáng tạo**, phát triển các sản phẩm, nội dung và ý tưởng độc đáo có tính ứng dụng thực tế, đồng thời chia sẻ kiến thức đến cộng đồng qua những dự án cá nhân, video học tập và các nền tảng trực tuyến.   
 
 ---
 
@@ -19,21 +19,9 @@
 
 ---
 
-## 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
-
----
-
 ## 📌 Featured projects
 - **🌐 Website cá nhân** – Portfolio giới thiệu bản thân (HTML + CSS)  
-- **📖 Học tiếng Trung** – Nội dung TikTok + Website học từ vựng  
-- **🎨 Thiết kế sáng tạo** – Ý tưởng “Nón Lá Chảy – Bay”  
-
----
-
-## ⚡ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+- **🎨 Thiết kế sáng tạo** – Remake MV, làm video animation ngắn, thiết kế poster, bài sách
 
 ---
 
@@ -44,4 +32,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
