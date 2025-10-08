@@ -54,4 +54,13 @@ Xin chào 👋, đây là website **Portfolio cá nhân** của mình, được 
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 
+## 📊 GitHub Stats
 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimTuyen-n23dcpt113&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com/?user=KimTuyen-n23dcpt113&theme=tokyonight) |
+|---|---|
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimTuyen-n23dcpt113&layout=compact&theme=tokyonight)
+
+---
+
+💬 *Cảm ơn bạn đã ghé thăm Portfolio của mình!*  
