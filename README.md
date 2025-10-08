@@ -1,4 +1,4 @@
-# HELLO - Nguyễn Lê Tường Vi
+# HELLO - I'm Nguyễn Lê Tường Vi
 
 
 Xin chào 👋, đây là website **Portfolio cá nhân** của mình, được xây dựng bằng **HTML + CSS** và triển khai bằng **GitHub Pages**.  
