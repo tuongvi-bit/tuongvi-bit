@@ -56,7 +56,8 @@ Xin chào 👋, đây là website **Portfolio cá nhân** của mình, được 
 
 ## 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuongvi-bit&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com/?user=KimTuyen-n23dcpt113&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuongvi-bit&show_icons=true&theme=tokyonight) 
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=KimTuyen-n23dcpt113&theme=tokyonight) |
 |---|---|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimTuyen-n23dcpt113&layout=compact&theme=tokyonight)
