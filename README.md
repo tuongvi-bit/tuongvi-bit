@@ -62,4 +62,4 @@
 
 ---
 
-💬 *Cảm ơn bạn đã ghé thăm Portfolio của mình!*  
+💬 *Cảm ơn bạn đã ghé thăm Profile của mình!*  
