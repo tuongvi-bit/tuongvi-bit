@@ -1,22 +1,19 @@
 # HELLO - I'm Nguyễn Lê Tường Vi
 
 
-Xin chào 👋, đây là website **Portfolio cá nhân** của mình, được xây dựng bằng **HTML + CSS** và triển khai bằng **GitHub Pages**.  
-
-
 ## 🔗 Link Website
 👉 [Xem tại đây](https://tuongvi-bit.github.io/tuongvi-bit/)
 
 
 🎓 Sinh viên năm 3 • 🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
-💻 Yêu thích công nghệ • Thiết kế sáng tạo • Học ngôn ngữ • Làm nội dung TikTok  
+💻 Yêu thích công nghệ • Thiết kế sáng tạo • Học ngôn ngữ  
 
 
 ---
 
 
 ## 🚀 About me
-- 🔭 Hiện đang học tập & phát triển kỹ năng lập trình Web / GitHub / Tử Vi nghiên cứu  
+- 🔭 Hiện đang học tập & phát triển kỹ năng lập trình Web / GitHub 
 - 🌱 Quan tâm đến **AI, thiết kế sáng tạo, ngôn ngữ**  
 - 🎯 Mục tiêu: Trở thành chuyên gia công nghệ và sáng tạo nội dung đa lĩnh vực  
 
@@ -41,7 +38,7 @@ Xin chào 👋, đây là website **Portfolio cá nhân** của mình, được 
 ---
 
 
-## 🛠 Languages, Frameworks & Tools
+## 🛠 Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
