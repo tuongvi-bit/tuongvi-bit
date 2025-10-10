@@ -1,11 +1,8 @@
 # HELLO - I'm Nguyễn Lê Tường Vi
 
 
-## 🔗 Link Website
-👉 [Xem tại đây](https://tuongvi-bit.github.io/tuongvi-bit/)
-
-
-🎓 Sinh viên năm 3 • 🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
+🎓 Sinh viên năm 3, Học viện Công Nghệ Bưu Chính Viễn Thông TPHCM 
+🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
 💻 Yêu thích công nghệ • Thiết kế sáng tạo • Học ngôn ngữ  
 
 
@@ -31,7 +28,9 @@
 
 
 ## 📌 Featured projects
-- **🌐 Website cá nhân** – Portfolio giới thiệu bản thân (HTML + CSS)  
+- **🌐 Website cá nhân** – Portfolio giới thiệu bản thân (HTML + CSS)
+    🔗 Link Website
+👉 [Xem tại đây](https://tuongvi-bit.github.io/tuongvi-bit/) 
 - **🎨 Thiết kế sáng tạo** – Remake MV, làm video animation ngắn, thiết kế poster, bài sách
 
 
