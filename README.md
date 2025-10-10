@@ -1,8 +1,7 @@
 # HELLO - I'm Nguyễn Lê Tường Vi
 
 
-🎓 Sinh viên năm 3, Học viện Công Nghệ Bưu Chính Viễn Thông TPHCM 
-🌍 Đến từ Bình Định, hiện sống tại TP.HCM  
+🎓 Sinh viên năm 3, Học viện Công Nghệ Bưu Chính Viễn Thông TPHCM. Đến từ Bình Định, hiện sống tại TP.HCM  
 💻 Yêu thích công nghệ • Thiết kế sáng tạo • Học ngôn ngữ  
 
 
